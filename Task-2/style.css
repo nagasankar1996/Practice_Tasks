@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#outer {
+  background-color: red;
+  padding: 100px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+#middle {
+  background-color: yellow;
+  padding: 100px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+#inner {
+  background-color: green;
+  padding: 100px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+#inside-one {
+  background-color: blue;
+  padding: 100px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+#inside-two {
+  background-color: white;
+  padding: 100px;
+  border: 2px solid;
+  border-radius: 50%;
+}
