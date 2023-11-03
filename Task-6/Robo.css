@@ -1,0 +1,164 @@
+.robo {
+  margin: auto;
+  padding: 0px;
+  background-color: black;
+}
+
+.head-1 {
+  margin: 130px;
+  width: 300px;
+  height: 300px;
+  background-color: #a4d9eb;
+  border: 10px solid #9bbcc2;
+  border-radius: 40px;
+}
+
+.bulb {
+  margin: auto;
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  align-items: center;
+  bottom: 485px;
+  left: 260px;
+  background-color: #ffa500;
+}
+
+.stick {
+  margin: auto;
+  position: absolute;
+  height: 30px;
+  width: 20px;
+  left: 150px;
+  top: 98px;
+  left: 280px;
+  background-color: #808080;
+  /* box-shadow: 30px 5px 0 0 #808080; */
+}
+
+.ear-right {
+  margin: auto;
+  width: 20px;
+  height: 75px;
+  background-color: #c90a0a;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+  position: absolute;
+  left: 108px;
+  bottom: 260px;
+}
+
+.ear-left {
+  margin: auto;
+  width: 20px;
+  height: 75px;
+  background-color: #c90a0a;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  position: absolute;
+  right: 808px;
+  bottom: 260px;
+}
+
+.beye-l {
+  margin: auto;
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  background-color: #00b3ff;
+  border-radius: 50%;
+  top: 192px;
+  left: 308px;
+}
+
+.beye-r {
+  margin: auto;
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  background-color: #00b3ff;
+  border-radius: 50%;
+  top: 192px;
+  left: 222px;
+}
+
+.eye-right {
+  margin: auto;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 50%;
+  top: 200px;
+  left: 230px;
+}
+
+.eye-left {
+  margin: auto;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 50%;
+  top: 200px;
+  left: 315px;
+}
+
+.nose {
+  margin: auto;
+  position: absolute;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid #c90a0a;
+  top: 255px;
+  left: 265px;
+}
+
+.mouth {
+  margin: auto;
+  position: absolute;
+  width: 120px;
+  height: 30px;
+  background-color: #dedede;
+  border: 2px solid black;
+  border-radius: 20px;
+  top: 330px;
+  left: 230px;
+}
+
+.tooth-1 {
+  margin: auto;
+  position: absolute;
+  width: 5px;
+  height: 30px;
+  background-color: black;
+  left: 20px;
+}
+
+.tooth-2 {
+  margin: auto;
+  position: absolute;
+  width: 5px;
+  height: 30px;
+  background-color: black;
+  left: 45px;
+}
+
+.tooth-3 {
+  margin: auto;
+  position: absolute;
+  width: 5px;
+  height: 30px;
+  background-color: black;
+  left: 70px;
+}
+
+.tooth-4 {
+  margin: auto;
+  position: absolute;
+  width: 5px;
+  height: 30px;
+  background-color: black;
+  left: 95px;
+}
